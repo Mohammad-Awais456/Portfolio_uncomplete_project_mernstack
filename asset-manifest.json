@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1329036e.css",
+    "main.js": "/static/js/main.3752ae17.js",
+    "static/js/447.8f89ff61.chunk.js": "/static/js/447.8f89ff61.chunk.js",
+    "static/media/bg3.jpg": "/static/media/bg3.aa1720e5c9be97da28ff.jpg",
+    "static/media/food_website.jpg": "/static/media/food_website.987c55dd2f7278704fdd.jpg",
+    "static/media/Mohammad_Awais_CV.pdf": "/static/media/Mohammad_Awais_CV.4225852591cab01ac24c.pdf",
+    "static/media/123.jpg": "/static/media/123.522d5c8ed8f215208171.jpg",
+    "static/media/profile.jpg": "/static/media/profile.7dd2e02e88603b787114.jpg",
+    "static/media/website2.jpg": "/static/media/website2.7a8bf404d824601ceb0e.jpg",
+    "static/media/dummy.png": "/static/media/dummy.5cc7c627da5033b8192c.png",
+    "static/media/bird.svg": "/static/media/bird.625d0c93e6f273b265ffc7805f5238e6.svg",
+    "static/media/girl.svg": "/static/media/girl.c657040ad1d7c6d8222deae982608795.svg",
+    "static/media/logo.svg": "/static/media/logo.26edc202107c1e64e4f627c74ac8910c.svg",
+    "index.html": "/index.html",
+    "main.1329036e.css.map": "/static/css/main.1329036e.css.map",
+    "main.3752ae17.js.map": "/static/js/main.3752ae17.js.map",
+    "447.8f89ff61.chunk.js.map": "/static/js/447.8f89ff61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1329036e.css",
+    "static/js/main.3752ae17.js"
+  ]
+}
